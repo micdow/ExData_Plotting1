@@ -1,4 +1,4 @@
-plot1 <- function(typ="h") {
+plot1 <- function() {
 # Get Feb.1st & 2nd of 2007 and write it to a separate file.
 
 	# Get the data
