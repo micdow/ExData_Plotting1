@@ -1,6 +1,5 @@
-# Get Feb.1st & 2nd of 2007 and write it to a separate file.
-
 plot1 <- function(typ="h") {
+# Get Feb.1st & 2nd of 2007 and write it to a separate file.
 
 	# Get the data
 	if (!file.exists("hpc_Feb_2002.csv")) {
